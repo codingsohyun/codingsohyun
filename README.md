@@ -1,7 +1,8 @@
+## @codingsohyun
 ### Hi there 👋
-
-🙋🏻‍♀️ I'm currently majoring in AI Engineering at SMWU.
-🤔 I like to learn new things and design new ideas.
+### My name is Sohyun Jung!
+<p>🙋🏻‍♀️ I'm currently majoring in AI Engineering at SMWU. </p>
+<p>🤔 I like to learn new things and design new ideas. </p>
 😄 I'm also a process-oriented person who loves to make plans.
 👯 Being an outgoing person, I like to develop skills with colleagues and friends.
 ⚡ I've spent 4 years in Washington DC, USA when I was young and is cuurently living in Seoul, South Korea.
@@ -9,9 +10,9 @@
 👩🏻‍💻 I'm currently interested in Spring, Pytorch, Tensorflow, and overall backend engineering and data analysing.
 
 ### 🛠 Tech Stack 🛠 
-## Platforms & Languages
+#### Platforms & Languages
 
-## Tools
+#### Tools
 
 <!--
 **codingsohyun/codingsohyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
