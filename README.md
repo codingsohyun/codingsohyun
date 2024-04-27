@@ -2,8 +2,10 @@
 
 ## @codingsohyun
 ### My name is Sohyun Jung!
-❄️ I'm majoring Artifical Intelligence Engineering at Sookmyung Women's University.
+❄️ I'm majoring Artifical Intelligence Engineering at Sookmyung Women's University. </br>
 👩‍💻 I'm interested in Generative AI, Multi-Modal, Computer Vision & Big Data Analytics!
+
+</br>
 
 ### ⭐Accomplishments
 - 2024.04 ~ AI Vision Lab, Student Researcher
