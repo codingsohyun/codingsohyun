@@ -5,6 +5,7 @@
 ❄️ I'm majoring Artifical Intelligence Engineering at Sookmyung Women's University. </br>
 👩‍💻 I'm interested in Generative AI, Multi-Modal, Computer Vision & Big Data Analytics!
 
+<!--
 </br>
 
 ### ⭐Accomplishments
@@ -18,6 +19,7 @@
 -  2022.02 ~ 2022.07 IT's Time, Backend Engineer
 -  2021.06 ~ 2021.08 MEIT, Arduino Programming, Bronze Medal
 
+-->
 <!--
 ### 🛠 Tech Stack 🛠 
 #### Platforms & Languages
